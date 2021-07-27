@@ -1,0 +1,78 @@
+
+.w-10{
+  width:10%;
+}
+
+.w-20{
+  width:20%;
+}
+
+
+
+.mw-100 {
+  min-width: 100px;
+}
+
+.mw-200 {
+  min-width: 200px;
+}
+.mw-210 {
+  min-width: 210px;
+}
+.mw-220 {
+  min-width: 220px;
+}
+.mw-230 {
+  min-width: 230px;
+}
+.mw-240 {
+  min-width: 240px;
+}
+.mw-240 {
+  min-width: 250px;
+}
+.font-monospace {
+  font-family: var(--bs-font-monospace) !important;
+}
+.fs-sm{
+  font-size: calc(1.275rem - 0.1vw) !important;
+}
+.fs-1 {
+  font-size: calc(1.375rem + 1.5vw) !important;
+}
+.fs-2 {
+  font-size: calc(1.325rem + 0.9vw) !important;
+}
+.fs-3 {
+  font-size: calc(1.3rem + 0.6vw) !important;
+}
+.fs-4 {
+  font-size: calc(1.275rem + 0.3vw) !important;
+}
+.fs-5 {
+  font-size: 1.25rem !important;
+}
+.fs-6 {
+  font-size: 1rem !important;
+}
+.fst-italic {
+  font-style: italic !important;
+}
+.fst-normal {
+  font-style: normal !important;
+}
+.fw-light {
+  font-weight: 300 !important;
+}
+.fw-lighter {
+  font-weight: lighter !important;
+}
+.fw-normal {
+  font-weight: 400 !important;
+}
+.fw-bold {
+  font-weight: 700 !important;
+}
+.fw-bolder {
+  font-weight: bolder !important;
+}

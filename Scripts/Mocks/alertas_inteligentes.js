@@ -1,0 +1,61 @@
+export const listaMock = [{
+    tipo: "clip",
+    nome: "Alerta 1 ",
+    dataCriacao: "01/01/2021",
+    autor: "Maiara Maria",
+  },
+  {
+    tipo: "clip",
+    nome: "sem nome",
+    dataCriacao: "01/01/2021",
+    autor: "Maiara",
+  },
+  {
+    tipo: "clip",
+    nome: "Alerta 3",
+    dataCriacao: "01/01/2021",
+    autor: "Maiara",
+  },
+  {
+    tipo: "clip",
+    nome: "Alerta 4",
+    dataCriacao: "01/01/2021",
+    autor: "Maiara",
+  },
+  {
+    tipo: "clip",
+    nome: "Alerta 5",
+    dataCriacao: "01/01/2021",
+    autor: "Maiara",
+  },
+  {
+    tipo: "evento",
+    nome: "Alerta 6",
+    dataCriacao: "01/01/2021",
+    autor: "Maiara",
+  },
+  {
+    tipo: "sms",
+    nome: "Alerta 7",
+    dataCriacao: "01/01/2021",
+    autor: "Maiara",
+  },
+  {
+    tipo: "clip",
+    nome: "Alerta 8",
+    dataCriacao: "01/01/2021",
+    autor: "Maiara",
+  },
+  {
+    tipo: "clip",
+    nome: "Alerta 9",
+    dataCriacao: "01/01/2021",
+    autor: "Maiara",
+  },
+  {
+    tipo: "clip",
+    nome: "Alerta 10",
+    dataCriacao: "01/01/2021",
+    autor: "Maiara",
+  },
+];
